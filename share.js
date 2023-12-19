@@ -7,10 +7,10 @@ document.getElementById('shareButton').addEventListener('click', async () => {
       return;
     }
 
-    // Your share data UPDATE AFTER DEPLOYING!!!!!!!!
+    // Your share data 
     const shareData = {
-      title: 'Web Share Example',
-      text: 'Check out this web share example!',
+      title: "Na Yeon(Diana)'s Advent Calendar",
+      text: "Check out Na Yeon(Diana)'s Advent Calendar!",
       url: window.location.href
     };
 
