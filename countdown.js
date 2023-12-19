@@ -1,5 +1,5 @@
 // set  the target date
-const targetDate = new Date("2023-12-25T00:00:00Z");
+const targetDate = new Date("2023-12-25T00:00:00");
 
 function updateCountdown() {
     // bring the current time
