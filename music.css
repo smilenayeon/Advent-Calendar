@@ -1,0 +1,19 @@
+/* music playing button */
+.sound {
+  position: relative;
+  font-size: 2rem;
+  width: 3rem;
+  height: 3rem;
+  color: white;
+  text-align: center;
+  margin: 1.5rem 1rem 0;
+  background-image: url("image/sound_on.png");
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+}
+
+/* music stop button */
+.stop {
+  background-image: url("image/sound_off.png");
+}
